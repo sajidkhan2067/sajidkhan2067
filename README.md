@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=sajidkhan2067.sajidkhan2067" />
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Md+Sajid Khan!;" />
 </h1>
@@ -10,7 +8,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **Scale AI**
+ 🔭 I’m currently working at **Scale AI**
  
  🌱 I’m currently learning **Azure, AWS, ML, Generative AI, Android, and Different Software Engineering Techniques**
 
@@ -39,7 +37,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,aws,mui,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=azure,aws,github,git" />
     <img src="https://skillicons.dev/icons?i=python,java,kotlin,mysql,flask" /><br>
 </div>
 
