@@ -8,9 +8,9 @@
 
 <div align="center">
  
- 🔭 I’m currently working at **Scale AI**
+ 🔭 I’m currently working at **Cohere Inc.**
  
- 🌱 I’m currently learning **Azure, AWS, ML, Generative AI, Android, and Different Software Engineering Techniques**
+ 🌱 I’m currently learning **Azure, AWS, ML, Generative AI, and Different Software Engineering Techniques**
 
 💬 Ask me about **ML, Generative AI, Data Analysis, Android, 5G network slice... or anything [here](https://github.com/sajidkhan2067/sajidkhan2067/issues)**
 
